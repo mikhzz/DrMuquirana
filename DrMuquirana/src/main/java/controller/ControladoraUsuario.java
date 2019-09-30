@@ -7,7 +7,7 @@ import model.vo.UsuarioVO;
 
 public class ControladoraUsuario {
 
-	public static  void cadastrarUsuarioController(UsuarioVO usuarioVO) {
+	public static void cadastrarUsuarioController(UsuarioVO usuarioVO) {
 		
 		UsuarioBO usuarioBO = new UsuarioBO();
 		usuarioBO.cadastrarUsuarioBO(usuarioVO);
