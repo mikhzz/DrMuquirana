@@ -45,6 +45,12 @@ public class ControladoraUsuario {
 		return usuarioBO.consultarUsuarioBO(usuarioVO);
 	}
 
+	public String cadastrarUsuarioController(String nomeDigitado, String cpfDigitado, String telefoneDigitado,
+			String loginDigitado, String senhaDigitada) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 	
 	
 	

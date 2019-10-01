@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 import model.bo.DespesaBO;
 import model.bo.ReceitaBO;
+import model.seletor.DespesaSeletor;
 import model.vo.DespesaVO;
 import model.vo.ReceitaVO;
 
@@ -42,6 +43,16 @@ public class ControladoraDespesa {
 			
 			
 			return despesaBO.consultarDespesaBO(despesaVO);
+	}
+
+	public ArrayList<String> consultarCategorias() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public int consultarTotalPaginas(DespesaSeletor seletor) {
+		// TODO Auto-generated method stub
+		return 0;
 	}
 
 }
