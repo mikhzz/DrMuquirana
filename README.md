@@ -1,5 +1,5 @@
 
-# Dr. Muquirana
+# Dr.Muquirana
 
 Projeto apresentado na finalização da disciplina Programação Orientada a Objeto do Curso de Análise e Desenvolvimento de Sistemas em 2018. Visa simular um controle de gastos através de um CRUD completo entre Receitas e Despesas
 
